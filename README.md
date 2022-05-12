@@ -6,6 +6,10 @@ description: Navigate the Pigskin Pals Whitepaper, learn more about Pigskin Pals
 
 
 
+{% content-ref url="what-is-pigskin-pals.md" %}
+[what-is-pigskin-pals.md](what-is-pigskin-pals.md)
+{% endcontent-ref %}
+
 {% content-ref url="season-one-the-oinks.md" %}
 [season-one-the-oinks.md](season-one-the-oinks.md)
 {% endcontent-ref %}
