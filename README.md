@@ -20,6 +20,6 @@ description: Navigate the Pigskin Pals Whitepaper, learn more about Pigskin Pals
 [profile-and-performance.md](profile-and-performance.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics.md" %}
-[tokenomics.md](tokenomics.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
