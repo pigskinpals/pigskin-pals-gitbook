@@ -4,14 +4,12 @@ description: Navigate the Pigskin Pals Whitepaper, learn more about Pigskin Pals
 
 # 🧭 Compass
 
-
-
-{% content-ref url="what-is-pigskin-pals.md" %}
-[what-is-pigskin-pals.md](what-is-pigskin-pals.md)
+{% content-ref url="what-is-pigskin-pals/" %}
+[what-is-pigskin-pals](what-is-pigskin-pals/)
 {% endcontent-ref %}
 
-{% content-ref url="season-one-the-oinks.md" %}
-[season-one-the-oinks.md](season-one-the-oinks.md)
+{% content-ref url="what-is-pigskin-pals/season-one-the-oinks.md" %}
+[season-one-the-oinks.md](what-is-pigskin-pals/season-one-the-oinks.md)
 {% endcontent-ref %}
 
 {% content-ref url="a-new-fantasy-football-game/" %}
