@@ -16,4 +16,4 @@
 
 ****
 
-![](<../.gitbook/assets/image (5).png>)
+![](../.gitbook/assets/OGWhitelist.png)
