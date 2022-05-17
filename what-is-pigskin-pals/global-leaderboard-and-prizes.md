@@ -16,7 +16,7 @@ For the innaugural season of Pigskin Pals, our team's mission was to release a s
 
 _**Note:** If you do the math, your chances of winning are slim, yes. We know that. And yes, there isn't much you can do in season one to increase and/or decreases your chances of winning outside of buying more NFTs and hoping for the best._&#x20;
 
-_Your chance of winning prize money is 5/1600 or .3% every week. Yes, that is a very low %. However, our mission is to build a new strategic game of fantasy football that you can play forever. Our mission is not to just give away free money (outside of our philanthropy). You could own these NFTs forever, and in theory, you can play our game forever. Our mission is to continue building our brand and expanding our game, bringing in new members into our community. We aren't promising a 10x on your investment or any asymetric upside to take advantage of in our game. What we do promise is a damn good game._
+_Your chance of winning prize money is 5/1600 or .3% every week. Yes, that is a very low %. However, our mission is to build a new strategic game of fantasy football that you can play forever. Our mission is not to just give away free money (outside of our philanthropy). You could own these NFTs forever, and in theory, you can play our game forever. Our mission is to continue building our brand and expanding our game, bringing in new members into our community. We aren't promising a 10x on your investment or any asymetric upside to take advantage of in our game. What we do promise is just a damn good game._
 
 ### Commitment to Philanthropy
 

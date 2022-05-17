@@ -20,11 +20,11 @@ From the start of the season, we will be working tirelessly to make sure all the
 
 **Focus Area 2. Head**-**to-Head Matches!**
 
-Head to Head Matches is the target and our team will be working on building out the gameplay in the app. We plan on having the technology ready before the season is over so that we can conduct system testing prior to the official launch of head to head matches next season (2023-2024).
+Head to Head Matches is the target and our team will be working on building out the gameplay in the app. We plan on having the technology ready before the season is over so that we can conduct system testing prior to the official launch of head-to-head matches next season (2023-2024).
 
 **Focus Area 3. Season Two Collection.**
 
-Will the Arachnids join the Planet Football story or will a new alien species come into the fray. You as a Pigskin Pal owner can vote on how you want the story to continue. This is an interactive and creative space where we allow the community to drive the storyline and adventures that happen on Planet Football.
+Will the Arachnids join the Planet Football story or will a new alien species come into the fray? You as a Pigskin Pal owner can vote on how you want the story to continue. This is an interactive and creative space where we allow the community to drive the storyline and adventures that happen on Planet Football.
 
 **Focus Area 4. Community, Philanthropy, and Merchandise**
 

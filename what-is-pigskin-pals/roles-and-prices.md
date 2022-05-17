@@ -2,7 +2,7 @@
 
 ### **500 OGs/Founders**
 
-**Price:** 0.1 ETH for 6 Pigskin Pal NFTs (QB, RB, WR, TE, K, D/ST)
+**Price:** 0.2 ETH for 6 Pigskin Pal NFTs (QB, RB, WR, TE, K, D/ST)
 
 **Responsibilities:**&#x20;
 

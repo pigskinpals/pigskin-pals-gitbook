@@ -7,6 +7,8 @@ description: >-
 
 # 🔐 Base Scoring
 
+Our scoring system mirrors Yahoo fantasy sports scoring except for one small adjustment. Interceptions thrown is -2 instead of -1. Come on. -1 is just too small of a punishment.&#x20;
+
 ### Offensive Scoring Rules
 
 ```

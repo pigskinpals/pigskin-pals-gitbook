@@ -7,3 +7,17 @@ description: >-
 
 # 🥶 Power-Up List
 
+### Quarterback
+
+```
+Locked-In	             +5 points if completion % >= 75%
+
+Dual Threat                  +3 points for each rushing touchdown
+
+Gunslinger                   +.02 points per passing yard
+
+Peak Performance	     +8 points if total yards >= 300
+
+Interception Insurance:	     +4 for each interception
+- The interception 
+```
