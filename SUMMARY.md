@@ -6,6 +6,7 @@
   * [🗺 Roadmap](what-is-pigskin-pals/roadmap.md)
   * [🤝 Roles & Prices](what-is-pigskin-pals/roles-and-prices.md)
   * [😎 Become an OG or Join our Whitelist!](what-is-pigskin-pals/how-to-join-whitelist.md)
+  * [🍃 ERC721A Minting](what-is-pigskin-pals/erc721a-minting.md)
   * [💰 Prize Pool & Philanthropy](what-is-pigskin-pals/global-leaderboard-and-prizes.md)
 * [🏈 A New Fantasy Football Game](a-new-fantasy-football-game/README.md)
   * [🔐 Base Scoring](a-new-fantasy-football-game/base-scoring.md)
