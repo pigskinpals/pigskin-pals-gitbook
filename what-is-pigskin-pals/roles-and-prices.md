@@ -24,8 +24,7 @@
 
 **Price:**&#x20;
 
-* 0.2 ETH for 6 Pigskin Pal NFTs (QB, RB, WR, TE, K, D/ST)
-* .05 ETH for 1 Pigskin Pal (Random Team & Position)
+* Coming Soon!
 
 **Responsibilities:**&#x20;
 
@@ -46,8 +45,7 @@
 
 **Price:**&#x20;
 
-* 0.4 ETH for 6 Pigskin Pal NFTs (QB, RB, WR, TE, K, D/ST)
-* .06 ETH for 1 Pigskin Pal (Random Team & Position)
+* Coming Soon!
 
 **Responsibilities:**&#x20;
 
