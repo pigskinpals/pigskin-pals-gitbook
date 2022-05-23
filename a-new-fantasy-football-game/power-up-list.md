@@ -25,19 +25,23 @@ Note: Interceptions will still cost -2 in the standard scoring menu
 ### Running-Back
 
 ```
+Coming Soon!
 ```
 
 ### Wide-Receiver & Tight Ends
 
 ```
+Coming Soon!
 ```
 
 ### Kicker
 
 ```
+Coming Soon!
 ```
 
 ### Defense & Special Teams
 
 ```
+Coming Soon!
 ```
