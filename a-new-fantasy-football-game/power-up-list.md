@@ -19,7 +19,7 @@ Gunslinger                   +.02 points per passing yard
 Peak Performance	     +8 points if total yards >= 300
 
 Interception Insurance:	     +4 for each interception
-Note: Interceptions will still cost -2 in the standard scoring menu
+--> Note: Interceptions will still cost -2 in the standard scoring menu
 ```
 
 ### Running-Back
