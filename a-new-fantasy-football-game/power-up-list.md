@@ -25,13 +25,26 @@ Interception Insurance:	     +4 for each interception
 ### Running-Back
 
 ```
-Coming Soon!
+Bionic Legs                    +5 points if running yards per attempt >= 4.5
+
+Bulldozer                      +.05 points per rushing yard
+
+Ninja                          +3 points for each receiving touchdown
+
+Workhorse                      +0.2 points for each rushing attempt
+
+Fumble Insurance               +2 pts for each fumble
+--> Note: Fumbles will still cost -2 in the standard scoring menu
 ```
 
 ### Wide-Receiver & Tight Ends
 
 ```
-Coming Soon!
+Sticky Hands                   +0.25 points for each reception
+
+Deep Threat                    +5 points if longest reception >= 30 yards
+
+
 ```
 
 ### Kicker
